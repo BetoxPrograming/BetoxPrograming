@@ -1,57 +1,113 @@
-# Alberto Zúñiga S.
+# 👋 About Me
 
-Software Development student focused on backend development, databases, automation, and quality-oriented problem solving.
+Software Development student focused on designing practical software solutions, backend-oriented systems, and user-centered applications.
 
-## 👋 About me
+I enjoy transforming real-world problems into structured digital products through technical analysis, system design, documentation, and iterative development. My interests include backend development, databases, automation, UX-oriented workflows, and scalable application architecture.
 
-I am building my technical profile through academic, personal, and practical software projects. My current focus is backend development, SQL databases, Git/GitHub workflows, Linux server practice, software quality, and technical documentation.
+Currently building my portfolio through university, personal, and long-term product-oriented projects focused on solving operational, community, and business-related problems through software.
 
-## 📚 Current learning path
+---
 
-I am currently studying software development through university courses and edX certification programs.
+# 🛠️ Technical Focus
 
-Current areas of study:
-
-- Python programming
-- Git and GitHub
-- Web application development
-- Software quality
-- Cybersecurity fundamentals
-
-## 🛠️ Technical focus
-
-- Backend development
+- Software solution design
+- Backend-oriented development
 - SQL databases
-- Python and Java
-- Git and GitHub
-- Software quality
-- QA mindset
-- Technical documentation
+- System analysis and documentation
+- UX-oriented workflows
+- Automation and operational tools
+- Product-oriented software architecture
+- Git and GitHub workflows
+- Web application development
 - Linux server practice
-- Web development
-- Cybersecurity fundamentals
+- Quality-oriented development mindset
 
-## 📦 Projects to be uploaded
+---
 
-These are completed projects that I plan to organize, document, and upload progressively to GitHub:
+# 📚 Current Learning Path
 
-- Music & Podcast Digital Store Database
-- EcoVecindario Web Application
-- Ubuntu Server Security Academic Project
-- Restaurant Reservation System
-- Parking Management System
-- IziRig Suite Case Study
+## 🎓 University Courses
 
-## 🚧 Work in Progress
+Current university courses related to software development, quality assurance, cybersecurity, and web applications:
 
-These are projects I am currently improving, redesigning, or planning as part of my personal technical portfolio:
+- Web Applications & Design Patterns
+- Software Quality
+- Cybersecurity Fundamentals
+
+---
+
+## 📘 Independent Courses & Technical Learning
+
+Personal learning focused on backend development, Git/GitHub workflows, Python, databases, software architecture, and practical product-oriented development.
+
+Current independent learning includes:
+
+- Python for Data Engineering
+- Backend-oriented application design
+- UML analysis and software documentation
+- Linux server practice and infrastructure
+
+---
+
+## 🏆 Certifications Completed
+
+- Scrum Fundamentals Certified (SFC™)
+- IBM Git & GitHub Basics
+
+---
+
+# 📂 Repository Categories
+
+## 🎓 University Projects
+
+University course projects, mostly final assignments. Each repository README specifies the course, context, and grading weight when applicable.
+
+Uploaded university repositories currently include:
+
+- [Music & Podcast Digital Store Database](https://github.com/BetoxPrograming/music-podcast-database-sqlserver)
+- [Waste Management System](https://github.com/BetoxPrograming/waste-management)
+- [Ubuntu Server Security Lab](https://github.com/BetoxPrograming/ubuntu-server-security-lab)
+- [IziRig Thesis Repository](https://github.com/BetoxPrograming/izirig-suite)
+
+---
+
+## 📘 Study & Certifications
+
+Repositories used for personal study, certifications, workshops, technology exploration, Git/GitHub practice, and learning exercises.
+
+Examples include:
+
+- Git and GitHub exercises
+- Certification projects
+- Technology practice repositories
+- Experimental learning environments
+
+🔗 Repository list:
+https://github.com/stars/BetoxPrograming/lists/study-certifications
+
+---
+
+## 🚧 Future Ideas & Research
+
+Work-in-progress concepts, software ideas, documentation-first projects, architecture planning, UML analysis, technical notes, and early-stage prototypes.
+
+Current active concepts and long-term projects include:
 
 - IziRig Suite
-- Restaurant or business inventory and costing software
-- EcoVecindario as a municipal/community charity project
-- Private Ubuntu Server / Personal Cloud
+- Margen — Business costing and inventory platform
+- [Entre_Telas](https://github.com/BetoxPrograming/entre-telas) — Fashion marketplace platform
+- EcoVecindario — Community-oriented environmental platform
+- [FuelFlow](https://github.com/BetoxPrograming/fuelflow) — Smart fuel tracking and estimation platform
+- Private Ubuntu Server / Personal Cloud infrastructure
 
-## 📫 Contact
+---
 
-LinkedIn: linkedin.com/in/albertozunigas  
-Website: betoxprograming.com
+# 📌 Current Interests
+
+- Product-oriented software development
+- Backend systems and architecture
+- UX-focused workflows
+- Real-world problem solving through software
+- Smart operational tools and automation
+- Technical documentation and system analysis
+- Scalable application planning
